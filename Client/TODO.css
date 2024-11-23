@@ -1,0 +1,43 @@
+.todo{
+    background-color: rgb(62, 11, 246);
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 5%;
+    border: 10px solid;
+    border-radius: 10px;
+    border-color: black;
+    font-size: large;
+    width: 25%;
+}
+#btn{
+    background-color: rgb(244, 72, 4);
+    color: whitesmoke;
+    padding: 10px 20px;
+    margin:3px;
+    border-radius: 5px;
+    border: none;
+    border:3px solid rgb(10, 10, 10);
+    font-size: large;
+}
+
+
+#title{
+    width: 40%;
+    height: 30px;
+}
+#description{
+    width: 50%;
+    height: 30px;
+}
+.listitem{
+    width:40%;
+    background-color: hsla(229, 96%, 49%, 0.98);
+    padding: 30px;
+    margin-left: 30%;
+    margin-top: -20%;
+    border: 10px solid;
+    border-radius:10px;
+    border-color:rgb(7, 7, 7);
+    font-size: large;
+    font-weight:bolder;
+}
